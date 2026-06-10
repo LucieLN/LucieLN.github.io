@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Bienvenu sur cette page github nouvellement crée. 
+Le contenu est vide pour l'instant, mais ça arrive fort. 
